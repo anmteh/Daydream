@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Daydream/static/css/main.bf4fc762.chunk.css",
+    "main.js": "/Daydream/static/js/main.3eb40282.chunk.js",
+    "main.js.map": "/Daydream/static/js/main.3eb40282.chunk.js.map",
+    "runtime-main.js": "/Daydream/static/js/runtime-main.00b2570e.js",
+    "runtime-main.js.map": "/Daydream/static/js/runtime-main.00b2570e.js.map",
+    "static/js/2.b7397220.chunk.js": "/Daydream/static/js/2.b7397220.chunk.js",
+    "static/js/2.b7397220.chunk.js.map": "/Daydream/static/js/2.b7397220.chunk.js.map",
+    "static/js/3.8727e0f8.chunk.js": "/Daydream/static/js/3.8727e0f8.chunk.js",
+    "static/js/3.8727e0f8.chunk.js.map": "/Daydream/static/js/3.8727e0f8.chunk.js.map",
+    "index.html": "/Daydream/index.html",
+    "static/css/main.bf4fc762.chunk.css.map": "/Daydream/static/css/main.bf4fc762.chunk.css.map",
+    "static/js/2.b7397220.chunk.js.LICENSE.txt": "/Daydream/static/js/2.b7397220.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00b2570e.js",
+    "static/js/2.b7397220.chunk.js",
+    "static/css/main.bf4fc762.chunk.css",
+    "static/js/main.3eb40282.chunk.js"
+  ]
+}
